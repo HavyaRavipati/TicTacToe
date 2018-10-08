@@ -1,0 +1,10 @@
+body {
+text-align: left;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-image:url(empire_state_building_getty_zsolt_hlinka.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+h2{
+	color: black;
+}
